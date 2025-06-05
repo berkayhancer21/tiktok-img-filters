@@ -14,7 +14,6 @@ Bu proje, Python ve OpenCV kullanarak gerçek zamanlı video akışında dört f
 6. [Proje Yapısı](#proje-yapısı)  
 7. [Fonksiyon Açıklamaları](#fonksiyon-açıklamaları)  
 8. [Yeni Filtre Ekleme](#yeni-filtre-ekleme)  
-9. [Lisans](#lisans)  
 
 ---
 
@@ -217,9 +216,3 @@ Aşağıda `main.py` içindeki başlıca fonksiyonların kısa açıklamaları y
    ```
 4. `README.md` ve/veya `filter_registry.py` dosyalarında yeni filtre hakkında bilgi ekleyin.
 
----
-
-## 📜 9. Lisans
-
-Bu proje MIT Lisansı (“MIT License”) ile lisanslanmıştır.  
-Detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
